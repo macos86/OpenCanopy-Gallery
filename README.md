@@ -4,7 +4,7 @@ heroImage: /dortania-logo-clear.png
 heroText: Set Grafici per OpenCore by Dortania
 actions:
   - text: Galleria Acidanthera→
-    link: ocbynary.md
+    link: ocbinary.md
   - text: Galleria Blackosx→
     link: blackosx.md
 tagline: Collezione di varie set grafici per OpenCanopy
