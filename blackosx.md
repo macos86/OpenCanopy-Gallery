@@ -19,7 +19,6 @@
 | [PinkPurple](https://github.com/blackosx/BsxDarkFencePinkPurple1) | [YellowGold](https://github.com/blackosx/BsxDarkFenceYellowGold1) | [YellowOrange](https://github.com/blackosx/BsxDarkFenceYellowOrange1) |
 | ![](https://raw.githubusercontent.com/blackosx/BsxDarkFencePinkPurple1/main/preview_ui.jpg) | ![](https://raw.githubusercontent.com/blackosx/BsxDarkFenceYellowGold1/main/preview_ui.jpg) | ![](https://raw.githubusercontent.com/blackosx/BsxDarkFenceYellowOrange1/main/preview_ui.jpg) |
 
-
 ### Tema [Set]: BsxImac
 
 | [Blue](https://github.com/blackosx/BsxImacBlue) | [Green](https://github.com/blackosx/BsxImacGreen) | [Orange](https://github.com/blackosx/BsxImacOrange) |
@@ -32,11 +31,9 @@
 | [Yellow](https://github.com/blackosx/BsxImacYellow)
 | ![](https://raw.githubusercontent.com/blackosx/BsxImacYellow/main/preview_ui.jpg)
 
-
 ### Tema: [BsxDark1](https://github.com/blackosx/BsxDark1)
 
 ![](https://raw.githubusercontent.com/blackosx/BsxDark1/main/preview_ui.jpg)
-
 
 ### Tema: [BsxDarkSpace1](https://github.com/blackosx/BsxDarkSpace1)
 
@@ -71,7 +68,6 @@ Set di icone individuali che gli utenti possono prendere e mescolare per creare 
 | Light Background | Dark Background |
 | :--- | :--- |
 | ![](https://i.ibb.co/ZTHytc4/Set2-All-Current-Icons-Grey-BG.jpg) | ![](https://i.ibb.co/Tcn05mb/Set2-All-Current-Icons-Black-BG.jpg) |
-
 
 ### Repository di icone [Set3]: Standard
 
