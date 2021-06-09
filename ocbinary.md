@@ -1,20 +1,16 @@
-# Acidanthera Gallery
+# Galleria Acidanthera
 
-* [Acidanthera's OcBinaryData Repo](https://github.com/acidanthera/OcBinaryData)
+* [Repository di Acidanthera (OcBinaryData)](https://github.com/acidanthera/OcBinaryData)
 
-Acidanthera media sets provide sample designs on how to create media sets for OpenCanopy. Currently there are three different media sets, which follow the original Apple Boot Picker UI of different macOS generations: 
+Il set grafico di Acidanthera provvede un semplice design e si pone come esempio nella creazione dei set grafici per OpenCanopy. Correntemente, ci sono tre differenti set grafici, ispirati dall'originale UI del Boot Picker Apple nelle tre generazioni di macOS: 
 
-- Chardonnay (10.9 and older)
-- Syrah (since 10.10 till 10.15)
-- GoldenGate (11 and newer)
+- Chardonnay (10.9 e meno recenti)
+- Syrah (da 10.10 a 10.15)
+- GoldenGate (11 e più recenti)
 
-These media sets are the ones OpenCanopy is tested with and are therefore always up-to-date. Currently the resources are maintained by [@Andrey1970](https://github.com/Andrey1970AppleLife).
+Questi set grafici sono ufficiali per OpenCanopy e sono sempre aggiornati. Attualmente le risorse sono mantenute da [@Andrey1970](https://github.com/Andrey1970AppleLife).
 
-Table of Contents:
-
-* Set 1: GoldenGate
-* Set 2: Syrah
-* Set 3: Chardonnay
+[[toc]]
 
 ## Set 1: GoldenGate
 

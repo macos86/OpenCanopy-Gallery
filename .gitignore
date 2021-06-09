@@ -1,8 +1,2 @@
-_book/
-node_modules/
 .vscode/
 .DS_Store
-.vuepress/dist
-.vuepress/.config.js.swp
-yarn.lock
-yarn-error.log
