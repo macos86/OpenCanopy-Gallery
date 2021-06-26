@@ -17,7 +17,7 @@ Prima di guardare i diversi set di grafica che puoi usare con OpenCore, devi:
 * Avviare e impostare OpenCore
   * Per i nuovi utenti, vedi la [Guida di Installazione OpenCore](https://macos86.github.io/)
 * Setup di OpenCanopy
-  * Per i nuovi utenti, vedi [Setting up OpenCore's GUI (EN)](https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html)
+  * Per i nuovi utenti, vedi [Setting up OpenCore's GUI (EN)](/OpenCore-Post-Install/cosmetic/gui.md)
   * Per documentazione completa, vedi il [manuale di OpenCore](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf)
 
 Nota, che differenti build di OpenCore supporteranno differenti funzionalità:
