@@ -14,12 +14,12 @@ Questi set grafici sono ufficiali per OpenCanopy e sono sempre aggiornati. Attua
 
 ## Set 1: GoldenGate
 
-![](/OpenCore-Post-Install/images/extras/gui-md/gui-nouveau.png)
+![](./images/gui-nouveau.png)
 
 ## Set 2: Syrah
 
-![](/OpenCore-Post-Install/images/extras/gui-md/gui.png)
+![](./images/gui.png)
 
 ## Set 3: Chardonnay
 
-![](/OpenCore-Post-Install/images/extras/gui-md/gui-old.png)
+![](./images/gui-old.png)
