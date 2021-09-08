@@ -17,6 +17,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v2
         with:
+          check-latest: true
           node-version: '16'
       - name: Upgrade
         run: |
